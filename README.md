@@ -8,7 +8,7 @@ Not everyone can or wants to install these dependencies directly on their comput
 
 One way of avoiding this is running software as [Docker](https://www.docker.com/) applications.
 
-A dockerised version of VoyantServer might be useful for researchers, teachers, and students who want to use a local version with few to none side effects and dependencies. 
+A dockerised version of Voyant Server might be useful for researchers, teachers, and students who want to use a local version with few to none side effects and dependencies. 
 
 ## How to Turn This Thing On?
 
