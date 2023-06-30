@@ -4,7 +4,7 @@ A dockerised version of [Voyant Server](https://github.com/voyanttools/VoyantSer
 
 While Voyant Server is already built to run on a local machine, it depends on locally installed Java and Eclipse Jetty. 
 
-Not everyone can or wants to install these dependencies direclty on their computer, or they might need different Java versions for different applications they're running. 
+Not everyone can or wants to install these dependencies directly on their computer, or they might need different Java versions for different applications they're running. 
 
 One way of avoiding this is running software as [Docker](https://www.docker.com/) applications.
 
